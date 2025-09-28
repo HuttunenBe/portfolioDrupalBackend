@@ -13,7 +13,7 @@ parameters:
     enabled: true
     allowedHeaders: ['x-csrf-token', 'content-type', 'accept', 'origin', 'authorization']
     allowedMethods: ['GET', 'POST', 'PATCH', 'DELETE', 'OPTIONS']
-    allowedOrigins: ['http://localhost:3005']
+    allowedOrigins: ['http://localhost:3004']
     allowedOriginsPatterns: []
     exposedHeaders: []  
     maxAge: 1000
